@@ -1,0 +1,13 @@
+node_modules
+
+# Build
+/.cache
+/build
+/public/build
+/worker.js
+/worker.js.map
+/app/styles/tailwind.css
+
+# Cypress
+/cypress/videos
+/cypress/screenshots
